@@ -1,6 +1,6 @@
 {
-    "name": "fake_image_detection",
-    "short_name": "fake_image_detection",
+    "name": "vision_truth",
+    "short_name": "vision_truth",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,5 +1,5 @@
-name: fake_image_detection
-description: A new Flutter project.
+name: vision_truth
+description: An intuitive app that classifies real and doctored images.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.

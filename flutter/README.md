@@ -1,4 +1,4 @@
-# fake_image_detection
+# vision_truth
 
 A new Flutter project.
 

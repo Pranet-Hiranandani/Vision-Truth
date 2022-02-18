@@ -1,4 +1,4 @@
-import 'package:fake_image_detection/home.dart';
+import 'package:vision_truth/home.dart';
 import 'package:flutter/material.dart';
 
 

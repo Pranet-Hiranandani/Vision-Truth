@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fake_image_detection">
+    package="com.example.vision_truth">
    <application
-        android:label="fake_image_detection"
+        android:label="vision_truth"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
