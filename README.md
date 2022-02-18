@@ -1,7 +1,7 @@
 # Vision Truth
 ![large_visiontruth_0](https://user-images.githubusercontent.com/83014418/153699208-8a375698-6fda-4fbe-a826-979ca4c77505.png)
 
-Vision Truth is an intuitive mobile application that classifies between real and GAN generated or edited images.
+Vision Truth is an intuitive mobile application that classifies between real and GAN generated or doctored images.
 
 ## Achievements
 
