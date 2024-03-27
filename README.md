@@ -1,7 +1,7 @@
 # Vision Truth
 ![large_visiontruth_0](https://user-images.githubusercontent.com/83014418/153699208-8a375698-6fda-4fbe-a826-979ca4c77505.png)
 
-Vision Truth is an intuitive mobile application that classifies between real and GAN generated or doctored images.
+Vision Truth is an intuitive mobile application that classifies between real and GAN-generated or doctored images.
 
 ## Achievements
 
@@ -9,13 +9,13 @@ Vision Truth is an intuitive mobile application that classifies between real and
 
 ## Problem Statement
 
-In today's world of social media there is a great amount of fake news being spread. Quite a few times doctored images are also sent, making people believe the fake news. People are often naive and believe what they see in these doctored photos. These images soon become viral on social media and the internet. THese images could cause political and social issues. 
+In today's world of social media there is a great amount of fake news being spread. Quite a few times doctored images or AI generated images are also sent, making people believe the fake news. People are often naive and believe what they see in these doctored photos. These images soon become viral on social media and the internet. These images could cause political and social issues. 
 
 ## Solution
 
-- An AI based mobile app that can classify between real and doctored images
-- The user get's an option to select if their image has faces or not
-- The user selects an image and the app intelligently classifes it and gives the user the result
+- An AI-based mobile app that can classify between real and doctored images
+- The user gets an option to select if their image has faces or not
+- The user selects an image and the app intelligently classifies it and gives the user the result
 
 ## Dataset
 
@@ -35,8 +35,8 @@ In today's world of social media there is a great amount of fake news being spre
 
 - Used MobileNetv2 CNN Algorithm
 - Experimented with ResNet50 CNN Algorithm
-- Accuracy for model without faces - 72%
-- Accuracy for model with faces - 78%
+- Accuracy for the model without faces - 72%
+- Accuracy for the model with faces - 78%
 
 ## App Development
 
@@ -48,4 +48,4 @@ In today's world of social media there is a great amount of fake news being spre
 - Further improve the accuracy of the model
 - Make the app publicly available
 - Classify video deep fakes
-- Build a chrome extension
+- Build a Chrome extension
